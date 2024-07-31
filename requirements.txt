@@ -1,0 +1,6 @@
+PyPDF2
+tika
+sklearn
+numpy
+opencv-python
+pdf2image
